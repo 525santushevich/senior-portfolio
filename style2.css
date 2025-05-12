@@ -1,0 +1,14 @@
+/* NAVBAR */
+.container {
+  margin-top: 3%;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Cal Sans", sans-serif;
+  color: rgb(65, 10, 2);
+}
+
+.nav-link:hover {
+  color: rgb(122, 42, 48);
+}
