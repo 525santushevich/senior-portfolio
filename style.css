@@ -4,7 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #f0f0f0;
+  background-image: radial-gradient(rgb(136, 136, 136), rgb(0, 0, 0));
   font-family: Arial, sans-serif;
 }
 
@@ -12,6 +12,8 @@ body {
   font-size: 10vh;
   overflow: hidden;
   white-space: nowrap;
+  text-shadow: 2px 2px 2px white;
+  font-family: "Rubik", sans-serif;
 }
 
 .letter {
